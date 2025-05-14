@@ -67,7 +67,7 @@ This app uses the following key packages:
 - `flutter_dotenv` – Manage environment variables securely 🔐
 - `flutter_staggered_grid_view` – Responsive layout for movie grids 🧱
 - `loading_animation_widget` – Clean and customizable loading effects ⏳
-- `http` – API calls to TMDB and OpenRouter 🌐
+- `dio` – API calls to TMDB and OpenRouter 🌐
 
 ---
 
