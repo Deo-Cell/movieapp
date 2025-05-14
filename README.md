@@ -29,8 +29,8 @@ An intelligent movie recommendation app built with **Flutter**, **BLoC**, and **
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai_movie_recommender_app.git
-cd ai_movie_recommender_app
+git clone git@github.com:Deo-Cell/movieapp.git
+cd movieapp
 ```
 
 ### 2️⃣ Install Dependencies
@@ -115,4 +115,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 **Deo Gratias PATINVOH**  
 📧 deogratiaspatinvoh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/deo-gratias-patinvoh-975554238/)
+🔗 [LinkedIn] (https://www.linkedin.com/in/deo-gratias-patinvoh-975554238/)
